@@ -3,6 +3,7 @@
 
 ## What is IPMI/KVM?
 The Intelligent Platform Management Interface (IPMI) is a set of computer interface specifications for an autonomous computer subsystem that provides management and monitoring capabilities independently of the host system's CPU, firmware (BIOS or UEFI) and operating system. IPMI defines a set of interfaces used by system administrators for out-of-band management of computer systems and monitoring of their operation. For example, IPMI provides a way to manage a computer that may be powered off or otherwise unresponsive by using a network connection to the hardware rather than to an operating system or login shell. Another use case may be installing a custom operating system remotely. Without IPMI, installing a custom operating system may require an administrator to be physically present near the computer, insert a DVD or a USB flash drive containing the OS installer and complete the installation process using a monitor and a keyboard. Using IPMI, an administrator can mount an ISO image, simulate an installer DVD, and perform the installation remotely.
+
 More info: https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface
 
 ----
@@ -35,7 +36,7 @@ From there you can craete an IPMI session for your System IP.
 
 After clicking on "Create Session" button, you should wait for 2 minutes, after that IPMI URL and its credential is visible to you.
 
-Anyway, you are welcome to choose any other Dedicated provider, which can allow you to have an access of IPMI/DRAC/KVM Session
+Anyway, you are welcome to choose any other Dedicated provider, which could allow you to have an access of IPMI/DRAC/KVM
 
 <ins>For step-by-step guide, please watch the Youtube Video</ins>
 
