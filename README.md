@@ -12,13 +12,17 @@ More info: https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interfa
 
 * A dedicated server with IPMI Access enabled
 
-* A Web Browser
+* Google Chrome Browser
+
+* Java must be Installed on your machine
 
 * Good Internet speed
 
 ----
 
 ## Guide to Install Windows Server 2019 using IPMI/KVM
+
+You machine should have Java installed. Otherwise Download & install JAVA from here: https://www.java.com/en/download/
 
 Through out this Tutorial, I am going to use https://oneprovider.com dedicated server [https://oneprovider.com/dedicated-servers] & Windows Server 2019 Essentials edition (free evaluation copy)
 
@@ -28,7 +32,7 @@ Also their support system is very helpful.
 
 Their payment method includes Paypal with many other familiar payment methods.
 
-In maximum cases, their servers comes with IPMI or DRAC access
+In maximum cases, their servers comes with IPMI or iDRAC access
 
 After receiving server information from Oneprovider, incase No Operating System is installed on your server, go to "Server manage" page and click on 'Install' tab. Otherise click on "IPMI Session" Tab
 
@@ -36,7 +40,7 @@ From there you can craete an IPMI session for your System IP.
 
 After clicking on "Create Session" button, you should wait for 2 minutes, after that IPMI URL and its credential is visible to you.
 
-Anyway, you are welcome to choose any other Dedicated provider, which could allow you to have an access of IPMI/DRAC/KVM
+Anyway, you are welcome to choose any other Dedicated provider, which could allow you to have an access of IPMI/iDRAC/KVM
 
 <ins>For step-by-step guide, please watch the Youtube Video</ins>
 
