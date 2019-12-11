@@ -83,9 +83,9 @@ https://archive.org/download/extradependentsoftwares/Extra-Dependent-Softwares.i
 
 ## Server Speedtest
 Tested on 1Gbps France(Paris) Server 
+https://www.speedtest.net/result/8843671405
 
-
-![alt text](https://i.imgur.com/.png "speedtest of the Windows Server")
+![alt text](https://i.imgur.com/uaUh6N3.png "speedtest of the Windows Server")
 
 ----
 
