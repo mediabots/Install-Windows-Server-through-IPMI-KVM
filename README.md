@@ -48,7 +48,7 @@ Anyway, you are welcome to choose any other Dedicated provider, which could allo
 
 ## Video Tutorial
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=" target="_blank"><img src="http://img.youtube.com/vi//0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ETxqU1Pex-g" target="_blank"><img src="http://img.youtube.com/vi/ETxqU1Pex-g/0.jpg" 
 alt='[Tutorial Video] How to Install Windows Server through IPMI/KVM ' width="480" height="360" border="10" /></a>
 
 ----
@@ -83,9 +83,9 @@ https://archive.org/download/extradependentsoftwares/Extra-Dependent-Softwares.i
 
 ## Server Speedtest
 Tested on 1Gbps France(Paris) Server 
-https://www.speedtest.net/result/8843671405
+https://www.speedtest.net/result/8843990145
 
-![alt text](https://i.imgur.com/uaUh6N3.png "speedtest of the Windows Server")
+![alt text](https://i.imgur.com/s0gy1oG.png "speedtest of the Windows Server")
 
 ----
 
